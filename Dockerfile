@@ -2,7 +2,7 @@
 FROM node:7-onbuild
 
 # set maintainer
-LABEL maintainer "miiro-sample-project"
+LABEL maintainer "mirro-sample-project"
 
 # set a health check
 HEALTHCHECK --interval=5s \
